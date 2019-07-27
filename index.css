@@ -1,0 +1,43 @@
+header {
+    margin: 0 0 0;
+    background: rgb(255, 255, 255) url(./assets/splash.jpg) center 0px;
+    height: 400px;
+}
+
+.head-img img {
+    height: 50px;
+    width: 50px;
+}
+
+#head-list {
+    list-style: none;
+    float: right;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0;
+}
+
+section div img {
+    height: 150px;
+    width: 150px;
+    right: 30px;
+}
+
+section div ul {
+    list-style: none;
+}
+
+section div li {
+    display: inline-block;
+    margin: 10px;
+}
+
+section div {
+    position: relative;
+}
+
+#main {
+    background-color: chocolate;
+}
